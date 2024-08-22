@@ -106,9 +106,9 @@ namespace SearchEngine.Api.Core.Services
             }
             return positions;
         }
-    }
 
-    public async Task<List<WordIndexer>> GetWordMatchesAsync(List<string> words)
+
+        public async Task<List<WordIndexer>> GetWordMatchesAsync(List<string> words)
     {
         var matches = new List<WordIndexer>();
         foreach (var word in words)
@@ -121,4 +121,7 @@ namespace SearchEngine.Api.Core.Services
         }
         return matches;
     }
+    }
+
+
 }
