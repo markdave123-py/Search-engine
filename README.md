@@ -23,10 +23,6 @@ For the indexer and match function (Query Parser) we have 2 major algorithms we 
   * [Repository](https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp)
   * [ikvm](https://github.com/ikvmnet/ikvm-maven)
 
-## Brainstorming with ChatGpt
-
-* [Chat](https://chatgpt.com/c/a2f771b1-b1ea-4760-b54d-a3f3ac38660b)
-
 ## Any thought is welcomed
 
 ## Might come in handy
